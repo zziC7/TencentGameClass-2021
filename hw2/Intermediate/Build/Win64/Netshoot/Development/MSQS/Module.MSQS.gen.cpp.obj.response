@@ -1,0 +1,77 @@
+/Zc:inline
+/nologo
+/Oi
+/c
+/Gw
+/Gy
+/Zm1000
+/wd4819
+/D_CRT_STDIO_LEGACY_WIDE_SPECIFIERS=1
+/D_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS=1
+/D_DISABLE_EXTENDED_ALIGNED_STORAGE
+/source-charset:utf-8
+/execution-charset:utf-8
+/Ob2
+/Ox
+/Ot
+/GF
+/errorReport:prompt
+/D_HAS_EXCEPTIONS=0
+/Z7
+/MD
+/bigobj
+/fp:fast
+/Zo
+/Zp8
+/we4456
+/we4458
+/we4459
+/wd4463
+/we4668
+/wd4244
+/wd4838
+/I .
+/I Runtime\MaterialShaderQualitySettings\Private
+/I Runtime
+/I Runtime\TraceLog\Public
+/I Runtime\Core\Public
+/I "F:\UnrealEngine\Projects\Netshoot 4.27\Intermediate\Build\Win64\Netshoot\Inc\CoreUObject"
+/I Runtime\CoreUObject\Public
+/I Runtime\RHI\Public
+/I "F:\UnrealEngine\Projects\Netshoot 4.27\Intermediate\Build\Win64\Netshoot\Inc\Engine"
+/I Runtime\Engine\Classes
+/I Runtime\Engine\Public
+/I "F:\UnrealEngine\Projects\Netshoot 4.27\Intermediate\Build\Win64\Netshoot\Inc\Renderer"
+/I Runtime\Renderer\Public
+/I "F:\UnrealEngine\Projects\Netshoot 4.27\Intermediate\Build\Win64\Netshoot\Inc\PacketHandler"
+/I Runtime\PacketHandlers
+/I Runtime\PacketHandlers\PacketHandler\Classes
+/I Runtime\PacketHandlers\PacketHandler\Public
+/I "F:\UnrealEngine\Projects\Netshoot 4.27\Intermediate\Build\Win64\Netshoot\Inc\AudioMixer"
+/I Runtime\AudioMixer\Classes
+/I Runtime\AudioMixer\Public
+/I Developer
+/I Developer\TargetPlatform\Public
+/I Runtime\AudioMixerCore\Public
+/I Runtime\SignalProcessing\Public
+/I "F:\UnrealEngine\Projects\Netshoot 4.27\Intermediate\Build\Win64\Netshoot\Inc\AnimationCore"
+/I Runtime\AnimationCore\Public
+/I "F:\UnrealEngine\Projects\Netshoot 4.27\Intermediate\Build\Win64\Netshoot\Inc\ClothingSystemRuntimeInterface"
+/I Runtime\ClothingSystemRuntimeInterface\Public
+/I "F:\UnrealEngine\Projects\Netshoot 4.27\Intermediate\Build\Win64\Netshoot\Inc\MaterialShaderQualitySettings"
+/I Runtime\MaterialShaderQualitySettings\Classes
+/I "F:\Visual Studio 2019 IDE\VC\Tools\MSVC\14.28.29333\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.2\include\um"
+/I "F:\Windows Kits\10\include\10.0.18362.0\ucrt"
+/I "F:\Windows Kits\10\include\10.0.18362.0\shared"
+/I "F:\Windows Kits\10\include\10.0.18362.0\um"
+/I "F:\Windows Kits\10\include\10.0.18362.0\winrt"
+/FI"F:\UnrealEngine\Projects\Netshoot 4.27\Intermediate\Build\Win64\Netshoot\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h"
+/Yu"F:\UnrealEngine\Projects\Netshoot 4.27\Intermediate\Build\Win64\Netshoot\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h"
+/Fp"F:\UnrealEngine\Projects\Netshoot 4.27\Intermediate\Build\Win64\Netshoot\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h.pch"
+"F:\UnrealEngine\Projects\Netshoot 4.27\Intermediate\Build\Win64\Netshoot\Development\MSQS\Module.MSQS.gen.cpp"
+/FI"F:\UnrealEngine\Projects\Netshoot 4.27\Intermediate\Build\Win64\Netshoot\Development\MSQS\Definitions.MaterialShaderQualitySettings.h"
+/Fo"F:\UnrealEngine\Projects\Netshoot 4.27\Intermediate\Build\Win64\Netshoot\Development\MSQS\Module.MSQS.gen.cpp.obj"
+/TP
+/GR-
+/W4

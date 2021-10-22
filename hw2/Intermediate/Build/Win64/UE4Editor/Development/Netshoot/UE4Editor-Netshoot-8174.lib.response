@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Netshoot-8174.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\UnrealEngine\Projects\Netshoot 4.27\Intermediate\Build\Win64\UE4Editor\Development\Netshoot\CustomCreateSessionCallbackProxy.cpp.obj"
+"F:\UnrealEngine\Projects\Netshoot 4.27\Intermediate\Build\Win64\UE4Editor\Development\Netshoot\Netshoot.cpp.obj"
+"F:\UnrealEngine\Projects\Netshoot 4.27\Intermediate\Build\Win64\UE4Editor\Development\Netshoot\CustomCreateSessionCallbackProxy.gen.cpp.obj"
+"F:\UnrealEngine\Projects\Netshoot 4.27\Intermediate\Build\Win64\UE4Editor\Development\Netshoot\Netshoot.init.gen.cpp.obj"
+"F:\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"F:\UnrealEngine\Projects\Netshoot 4.27\Intermediate\Build\Win64\UE4Editor\Development\Netshoot\UE4Editor-Netshoot-8174.lib"

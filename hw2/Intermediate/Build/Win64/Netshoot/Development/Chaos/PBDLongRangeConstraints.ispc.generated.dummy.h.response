@@ -1,0 +1,18 @@
+-h "F:\UnrealEngine\Projects\Netshoot 4.27\Intermediate\Build\Win64\Netshoot\Development\Chaos\PBDLongRangeConstraints.ispc.generated.dummy.h"
+--target-os=windows
+--arch=x86-64
+--target=avx512skx-i32x8,avx2,avx,sse4,sse2
+-I"F:\UnrealEngine\UnrealEngine\Engine\Source"
+-I"F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Experimental\Chaos\Private"
+-I"F:\UnrealEngine\Projects\Netshoot 4.27\Intermediate\Build\Win64\Netshoot\Inc\Chaos"
+-I"F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Experimental"
+-I"F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Experimental\Chaos\Public"
+-I"F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime"
+-I"F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\TraceLog\Public"
+-I"F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public"
+-I"F:\UnrealEngine\Projects\Netshoot 4.27\Intermediate\Build\Win64\Netshoot\Inc\CoreUObject"
+-I"F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public"
+-I"F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Experimental\ChaosCore\Public"
+-I"F:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\Intel"
+-I"F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Experimental\Voronoi\Public"
+-MMM "F:/UnrealEngine/Projects/Netshoot 4.27/Intermediate/Build/Win64/Netshoot/Development/Chaos/PBDLongRangeConstraints.ispc.txt"

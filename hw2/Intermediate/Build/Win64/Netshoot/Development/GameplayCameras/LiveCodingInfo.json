@@ -1,0 +1,27 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GameplayCameras.cpp.obj": [
+			"CompositeCameraShakePattern.cpp.obj",
+			"DefaultCameraShakeBase.cpp.obj",
+			"GameplayCamerasModule.cpp.obj",
+			"MatineeCameraShake.cpp.obj",
+			"PerlinNoiseCameraShakePattern.cpp.obj",
+			"SimpleCameraShakePattern.cpp.obj",
+			"CameraShakeStateTests.cpp.obj",
+			"CameraShakeTestObjects.cpp.obj",
+			"CameraShakeTests.cpp.obj",
+			"WaveOscillatorCameraShakePattern.cpp.obj"
+		],
+		"Module.GameplayCameras.gen.cpp.obj": [
+			"CameraShakeTestObjects.gen.cpp.obj",
+			"CompositeCameraShakePattern.gen.cpp.obj",
+			"DefaultCameraShakeBase.gen.cpp.obj",
+			"GameplayCameras.init.gen.cpp.obj",
+			"MatineeCameraShake.gen.cpp.obj",
+			"PerlinNoiseCameraShakePattern.gen.cpp.obj",
+			"SimpleCameraShakePattern.gen.cpp.obj",
+			"WaveOscillatorCameraShakePattern.gen.cpp.obj"
+		]
+	}
+}

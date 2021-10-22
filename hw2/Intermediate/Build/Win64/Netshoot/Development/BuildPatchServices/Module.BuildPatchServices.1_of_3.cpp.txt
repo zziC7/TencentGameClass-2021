@@ -1,0 +1,317 @@
+F:\UnrealEngine\Projects\Netshoot 4.27\Intermediate\Build\Win64\Netshoot\Development\BuildPatchServices\Definitions.BuildPatchServices.h
+F:/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchDelta.cpp
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchDelta.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Public\Interfaces/IBuildManifest.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchUtil.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchManifest.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Data/ChunkData.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchFeatureLevel.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Data/ManifestData.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/EnumRange.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchMergeManifests.h
+F:/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchFeatureLevel.cpp
+F:/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchFileConstructor.cpp
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchFileConstructor.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchProgress.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Controllable.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchState.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Common/SpeedRecorder.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchInstall.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\IBuildManifestSet.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchSettings.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/Variant.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/NetworkGuid.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchVerify.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/PlatformFilemanager.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchServicesPrivate.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Public\Interfaces/IBuildInstaller.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchMessage.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Common/StatsCollector.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Common/FileSystem.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Async/Async.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Async/Future.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/CoreStats.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/ChunkSource.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/ChunkReferenceTracker.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/InstallerError.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/InstallerAnalytics.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\HTTP\Public\Interfaces/IHttpRequest.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\HTTP\Public\Interfaces/IHttpBase.h
+F:/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchGeneration.cpp
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchGeneration.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers/Ticker.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchServicesModule.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Public\Interfaces/IBuildPatchServicesModule.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Public\Interfaces/IBuildStatistics.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Public\Interfaces/IPatchDataEnumeration.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchInstaller.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Common/HttpManager.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Core/AsyncHelpers.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Core/Platform.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Core/ProcessTimer.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchHash.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Core/RingBuffer.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Core/BlockStructure.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Core/BlockRange.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Core/BlockData.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/DataScanner.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/CloudEnumeration.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/DeltaEnumeration.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/BuildStreamer.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Core/Factory.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Core/FileSpan.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/CloudChunkSource.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/DownloadConnectionCount.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/ManifestBuilder.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/FileAttributesParser.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/ChunkWriter.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/ChunkMatchProcessor.h
+F:/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchHash.cpp
+F:/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchInstall.cpp
+F:/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchInstaller.cpp
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/FeedbackContext.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/SlowTask.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/SlowTaskStack.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Templates/ValueOrError.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/TVariant.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc\TVariantMeta.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\HTTP\Public\HttpModule.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Common/ChunkDataSizeProvider.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Common/DataSizeProvider.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/DiskChunkStore.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/ChunkStore.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/MemoryChunkStore.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/ChunkEvictionPolicy.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/DownloadService.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/ChunkDbChunkSource.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/InstallChunkSource.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/ChainedChunkSource.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Verifier.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/FileAttribution.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Prerequisites.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/MachineConfig.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/MessagePump.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/OptimisedDelta.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Statistics/MemoryChunkStoreStatistics.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Statistics/DiskChunkStoreStatistics.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Statistics/DownloadServiceStatistics.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Statistics/ChunkDbChunkSourceStatistics.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Statistics/InstallChunkSourceStatistics.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Statistics/CloudChunkSourceStatistics.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Statistics/FileConstructorStatistics.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Statistics/VerifierStatistics.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/Statistics/FileOperationTracker.h
+F:/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchManifest.cpp
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/FileHelper.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Json\Public\Policies/PrettyJsonPrintPolicy.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Json\Public\Policies/JsonPrintPolicy.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Json\Public\Policies/CondensedJsonPrintPolicy.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Json\Public\Serialization/JsonReader.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Json\Public\Serialization/JsonSerializer.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Json\Public\Dom/JsonValue.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Json\Public\Dom/JsonObject.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Json\Public\JsonGlobals.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Algo/Accumulate.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Algo/Transform.h
+F:/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchManifestSet.cpp
+F:/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchMergeManifests.cpp
+F:/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchProgress.cpp
+F:/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchServicesModule.cpp
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/CoreDelegates.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/AES.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/App.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/FrameRate.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/FrameTime.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.inl
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/Timecode.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\HTTP\Public\HttpManager.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime/Online/HTTP/Private/IHttpThreadedRequest.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\HTTP\Public\GenericPlatform/HttpRequestImpl.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\HTTP\Public\HttpPackage.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Compactify/PatchDataCompactifier.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Diffing/DiffManifests.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Enumeration/PatchDataEnumeration.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/ChunkDeltaOptimiser.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/PackageChunkData.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer/BuildStatistics.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\BuildPatchVerifyChunkData.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Public\BuildPatchServicesSingleton.h
+F:/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchServicesSingleton.cpp
+F:/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchSettings.cpp
+F:/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchState.cpp
+F:/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchUtil.cpp
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/Base64.h
+F:/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/BuildPatchVerifyChunkData.cpp
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation/ChunkDatabaseWriter.h
+F:/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/Common/ChunkDataSizeProvider.cpp
+F:/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/Common/FileSystem.cpp
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+F:\Windows Kits\10\include\10.0.18362.0\um\Windows.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
+F:\Visual Studio 2019 IDE\VC\Tools\MSVC\14.28.29333\INCLUDE\excpt.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\windef.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
+F:\Windows Kits\10\include\10.0.18362.0\um\winnt.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\kernelspecs.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\apiset.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\ktmtypes.h
+F:\Windows Kits\10\include\10.0.18362.0\um\winbase.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\apisetcconv.h
+F:\Windows Kits\10\include\10.0.18362.0\um\minwinbase.h
+F:\Windows Kits\10\include\10.0.18362.0\um\apiquery2.h
+F:\Windows Kits\10\include\10.0.18362.0\um\processenv.h
+F:\Windows Kits\10\include\10.0.18362.0\um\fileapifromapp.h
+F:\Windows Kits\10\include\10.0.18362.0\um\fileapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\debugapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\utilapiset.h
+F:\Windows Kits\10\include\10.0.18362.0\um\handleapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\errhandlingapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\fibersapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\namedpipeapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\profileapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\heapapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\ioapiset.h
+F:\Windows Kits\10\include\10.0.18362.0\um\synchapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\interlockedapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\processthreadsapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\sysinfoapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\memoryapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\enclaveapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\threadpoollegacyapiset.h
+F:\Windows Kits\10\include\10.0.18362.0\um\threadpoolapiset.h
+F:\Windows Kits\10\include\10.0.18362.0\um\jobapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\jobapi2.h
+F:\Windows Kits\10\include\10.0.18362.0\um\wow64apiset.h
+F:\Windows Kits\10\include\10.0.18362.0\um\libloaderapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\securitybaseapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\namespaceapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\systemtopologyapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\processtopologyapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\securityappcontainer.h
+F:\Windows Kits\10\include\10.0.18362.0\um\realtimeapiset.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\winerror.h
+F:\Windows Kits\10\include\10.0.18362.0\um\timezoneapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\wingdi.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\um\winuser.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\tvout.h
+F:\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+F:\Windows Kits\10\include\10.0.18362.0\um\datetimeapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\stringapiset.h
+F:\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+F:\Windows Kits\10\include\10.0.18362.0\um\wincon.h
+F:\Windows Kits\10\include\10.0.18362.0\um\wincontypes.h
+F:\Windows Kits\10\include\10.0.18362.0\um\consoleapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\consoleapi2.h
+F:\Windows Kits\10\include\10.0.18362.0\um\consoleapi3.h
+F:\Windows Kits\10\include\10.0.18362.0\um\winver.h
+F:\Windows Kits\10\include\10.0.18362.0\um\verrsrc.h
+F:\Windows Kits\10\include\10.0.18362.0\um\winreg.h
+F:\Windows Kits\10\include\10.0.18362.0\um\reason.h
+F:\Windows Kits\10\include\10.0.18362.0\um\winnetwk.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
+F:\Windows Kits\10\include\10.0.18362.0\um\imm.h
+F:\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\wtypes.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\rpc.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\rpcdce.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\rpcdcep.h
+F:\Windows Kits\10\include\10.0.18362.0\um\rpcnsi.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\rpcnterr.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\rpcasync.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\rpcndr.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+F:\Windows Kits\10\include\10.0.18362.0\um\rpcnsip.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\rpcsal.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\wtypesbase.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+F:\Windows Kits\10\include\10.0.18362.0\um\winioctl.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+F:/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/Common/HttpManager.cpp
+F:/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/Common/SpeedRecorder.cpp
+F:/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/Common/StatsCollector.cpp
+F:/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/Compactify/PatchDataCompactifier.cpp
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Algo/Partition.h
+F:/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/Core/BlockStructure.cpp
+F:/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/Data/ChunkData.cpp
+F:/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Online/BuildPatchServices/Private/Data/ManifestData.cpp
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Online\BuildPatchServices\Private\Data/ManifestUObject.h
+F:\UnrealEngine\Projects\Netshoot 4.27\Intermediate\Build\Win64\Netshoot\Inc\BuildPatchServices\ManifestUObject.generated.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptMacros.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptInterface.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/UnrealType.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\Serialization/SerializedPropertyScope.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Serialization/MemoryImage.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNetTypes.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/LazyObjectPtr.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/PersistentObjectPtr.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\UObject/PropertyPortFlags.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyTag.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPtr.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPath.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/SparseDelegate.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/UndefineUPropertyMacros.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/DefineUPropertyMacros.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/Stack.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/EnumProperty.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/FieldPathProperty.h

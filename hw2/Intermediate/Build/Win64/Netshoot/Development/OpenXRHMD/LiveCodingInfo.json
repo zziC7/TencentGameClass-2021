@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OpenXRHMD.cpp.obj": [
+			"OpenXRAssetManager.cpp.obj",
+			"OpenXRCore.cpp.obj",
+			"OpenXRHMD.cpp.obj",
+			"OpenXRHMD_Layer.cpp.obj",
+			"OpenXRHMD_RenderBridge.cpp.obj",
+			"OpenXRHMD_Swapchain.cpp.obj"
+		]
+	}
+}

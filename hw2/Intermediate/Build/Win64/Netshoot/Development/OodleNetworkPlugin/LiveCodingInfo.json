@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OodleNetworkPlugin.cpp.obj": [
+			"OodleNetworkAnalytics.cpp.obj",
+			"OodleNetworkArchives.cpp.obj",
+			"OodleNetworkHandlerComponent.cpp.obj",
+			"OodleNetworkTrainerCommandlet.cpp.obj",
+			"OodleNetworkUtils.cpp.obj"
+		],
+		"Module.OodleNetworkPlugin.gen.cpp.obj": [
+			"OodleNetworkHandlerComponent.gen.cpp.obj",
+			"OodleNetworkHandlerComponent.init.gen.cpp.obj",
+			"OodleNetworkTrainerCommandlet.gen.cpp.obj"
+		]
+	}
+}

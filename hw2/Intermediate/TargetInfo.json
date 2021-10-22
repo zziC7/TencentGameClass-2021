@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Netshoot",
+			"Path": "F:\\UnrealEngine\\Projects\\Netshoot 4.27\\Source\\Netshoot.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NetshootEditor",
+			"Path": "F:\\UnrealEngine\\Projects\\Netshoot 4.27\\Source\\NetshootEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

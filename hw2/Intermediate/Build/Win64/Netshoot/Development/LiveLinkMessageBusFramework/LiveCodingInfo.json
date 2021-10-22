@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.LiveLinkMessageBusFramework.cpp.obj": [
+			"LiveLinkMessageBusFrameworkModule.cpp.obj",
+			"LiveLinkProvider.cpp.obj"
+		],
+		"Module.LiveLinkMessageBusFramework.gen.cpp.obj": [
+			"LiveLinkMessageBusFramework.init.gen.cpp.obj",
+			"LiveLinkMessages.gen.cpp.obj"
+		]
+	}
+}

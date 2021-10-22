@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GeForceNOWWrapper.cpp.obj": [
+			"GeForceNOWWrapper.cpp.obj",
+			"GeForceNOWWrapperModule.cpp.obj"
+		]
+	}
+}

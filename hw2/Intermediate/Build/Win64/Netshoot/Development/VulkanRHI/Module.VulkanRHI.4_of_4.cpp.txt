@@ -1,0 +1,134 @@
+F:\UnrealEngine\Projects\Netshoot 4.27\Intermediate\Build\Win64\Netshoot\Development\VulkanRHI\Definitions.VulkanRHI.h
+F:/UnrealEngine/UnrealEngine/Engine/Source/Runtime/VulkanRHI/Private/Windows/VulkanWindowsPlatform.cpp
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Private\Windows\VulkanWindowsPlatform.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+F:\Windows Kits\10\include\10.0.18362.0\um\Windows.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
+F:\Visual Studio 2019 IDE\VC\Tools\MSVC\14.28.29333\INCLUDE\excpt.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\windef.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
+F:\Windows Kits\10\include\10.0.18362.0\um\winnt.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\kernelspecs.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\apiset.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\ktmtypes.h
+F:\Windows Kits\10\include\10.0.18362.0\um\winbase.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\apisetcconv.h
+F:\Windows Kits\10\include\10.0.18362.0\um\minwinbase.h
+F:\Windows Kits\10\include\10.0.18362.0\um\apiquery2.h
+F:\Windows Kits\10\include\10.0.18362.0\um\processenv.h
+F:\Windows Kits\10\include\10.0.18362.0\um\fileapifromapp.h
+F:\Windows Kits\10\include\10.0.18362.0\um\fileapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\debugapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\utilapiset.h
+F:\Windows Kits\10\include\10.0.18362.0\um\handleapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\errhandlingapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\fibersapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\namedpipeapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\profileapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\heapapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\ioapiset.h
+F:\Windows Kits\10\include\10.0.18362.0\um\synchapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\interlockedapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\processthreadsapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\sysinfoapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\memoryapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\enclaveapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\threadpoollegacyapiset.h
+F:\Windows Kits\10\include\10.0.18362.0\um\threadpoolapiset.h
+F:\Windows Kits\10\include\10.0.18362.0\um\jobapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\jobapi2.h
+F:\Windows Kits\10\include\10.0.18362.0\um\wow64apiset.h
+F:\Windows Kits\10\include\10.0.18362.0\um\libloaderapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\securitybaseapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\namespaceapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\systemtopologyapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\processtopologyapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\securityappcontainer.h
+F:\Windows Kits\10\include\10.0.18362.0\um\realtimeapiset.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\winerror.h
+F:\Windows Kits\10\include\10.0.18362.0\um\timezoneapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\wingdi.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\um\winuser.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\tvout.h
+F:\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+F:\Windows Kits\10\include\10.0.18362.0\um\datetimeapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\stringapiset.h
+F:\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+F:\Windows Kits\10\include\10.0.18362.0\um\wincon.h
+F:\Windows Kits\10\include\10.0.18362.0\um\wincontypes.h
+F:\Windows Kits\10\include\10.0.18362.0\um\consoleapi.h
+F:\Windows Kits\10\include\10.0.18362.0\um\consoleapi2.h
+F:\Windows Kits\10\include\10.0.18362.0\um\consoleapi3.h
+F:\Windows Kits\10\include\10.0.18362.0\um\winver.h
+F:\Windows Kits\10\include\10.0.18362.0\um\verrsrc.h
+F:\Windows Kits\10\include\10.0.18362.0\um\winreg.h
+F:\Windows Kits\10\include\10.0.18362.0\um\reason.h
+F:\Windows Kits\10\include\10.0.18362.0\um\winnetwk.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
+F:\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
+F:\Windows Kits\10\include\10.0.18362.0\um\imm.h
+F:\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Private\Windows\../VulkanGenericPlatform.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Private\VulkanLoader.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vulkan.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vk_platform.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vulkan_core.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\Vulkan\Include\vulkan\vulkan_win32.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Private\Windows\../VulkanRHIPrivate.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\RHI\Public\RHIValidation.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\RHI\Public\RHIValidationUtils.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\RHI\Public\RHIValidationContext.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Private\VulkanPlatform.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Private\Windows\VulkanPlatformDefines.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Public\VulkanConfiguration.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Public\VulkanCommon.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Private\VulkanCommandsDirect.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Private\VulkanState.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Private\VulkanResources.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Public\VulkanUtil.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\RHI\Public\BoundShaderStateCache.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Public\VulkanShaderResources.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\RenderCore\Public\CrossCompilerCommon.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\RenderCore\Public\ShaderCompilerCore.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Public\VulkanMemory.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Private\VulkanViewport.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Public\VulkanDynamicRHI.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Private\VulkanDevice.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Private\VulkanQueue.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\VulkanRHI\Private\VulkanCommandBuffer.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\ThirdParty\AMD\AMD_AGS\inc\amd_ags.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+F:\UnrealEngine\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
