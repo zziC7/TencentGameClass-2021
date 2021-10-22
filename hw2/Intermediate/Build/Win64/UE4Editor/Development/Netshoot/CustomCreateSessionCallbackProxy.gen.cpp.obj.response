@@ -32,7 +32,7 @@
 /wd4244
 /wd4838
 /I .
-/I "F:\UnrealEngine\Projects\Netshoot 4.27\Source\Netshoot\Private"
+/I F:\UnrealEngine\Projects\TencentGameClass-2021\hw2\Source\Netshoot\Private
 /I ..\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem\Source
@@ -240,8 +240,8 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I "F:\UnrealEngine\Projects\Netshoot 4.27\Intermediate\Build\Win64\UE4Editor\Inc\Netshoot"
-/I "F:\UnrealEngine\Projects\Netshoot 4.27\Source"
+/I F:\UnrealEngine\Projects\TencentGameClass-2021\hw2\Intermediate\Build\Win64\UE4Editor\Inc\Netshoot
+/I F:\UnrealEngine\Projects\TencentGameClass-2021\hw2\Source
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -274,9 +274,9 @@
 /FI"F:\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
 /Yu"F:\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
 /Fp"F:\UnrealEngine\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"F:\UnrealEngine\Projects\Netshoot 4.27\Intermediate\Build\Win64\UE4Editor\Inc\Netshoot\CustomCreateSessionCallbackProxy.gen.cpp"
-/FI"F:\UnrealEngine\Projects\Netshoot 4.27\Intermediate\Build\Win64\UE4Editor\Development\Netshoot\Definitions.Netshoot.h"
-/Fo"F:\UnrealEngine\Projects\Netshoot 4.27\Intermediate\Build\Win64\UE4Editor\Development\Netshoot\CustomCreateSessionCallbackProxy.gen.cpp.obj"
+"F:\UnrealEngine\Projects\TencentGameClass-2021\hw2\Intermediate\Build\Win64\UE4Editor\Inc\Netshoot\CustomCreateSessionCallbackProxy.gen.cpp"
+/FI"F:\UnrealEngine\Projects\TencentGameClass-2021\hw2\Intermediate\Build\Win64\UE4Editor\Development\Netshoot\Definitions.Netshoot.h"
+/Fo"F:\UnrealEngine\Projects\TencentGameClass-2021\hw2\Intermediate\Build\Win64\UE4Editor\Development\Netshoot\CustomCreateSessionCallbackProxy.gen.cpp.obj"
 /TP
 /GR-
 /W4
